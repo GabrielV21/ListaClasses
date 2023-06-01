@@ -1,14 +1,14 @@
 package Ex01;
 public class Bola {
-    String color;
-    double circunference;
+    String cor;
+    double circunferencia;
     String material;
 
-    public String getColor() {
-        return color;
+    public String getCor() {
+        return cor;
     }
 
-    public void setColor(String color) {
-        this.color = color;
+    public void setCor(String cor) {
+        this.cor = cor;
     }
 }
