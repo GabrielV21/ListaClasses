@@ -1,5 +1,4 @@
 package Ex10;
-
 public class BombaCombustivel {
 
     private String tipoCombustivel;
