@@ -1,6 +1,6 @@
 package Ex02;
 public class Quadrado {
-    double lado;
+    private double lado;
     public double getLado(){
         return lado;
     }

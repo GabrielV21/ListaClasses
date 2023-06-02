@@ -1,7 +1,7 @@
 package Ex03;
 public class Retangulo {
-    double ladoA;
-    double ladoB;
+    private double ladoA;
+    private double ladoB;
     public double getLadoA() {
         return ladoA;
     }
